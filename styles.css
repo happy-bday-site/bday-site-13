@@ -1,0 +1,28 @@
+body {
+    background-color: #cdf1eb;
+}
+
+h1 {
+    padding-top: 10%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    size: 10%;
+}
+
+.bday-txt {
+    padding: 15%;
+}
+
+.cake-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 10%;
+  }
+  
